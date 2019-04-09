@@ -96,6 +96,8 @@
 
 [MIT 6.042J&18.062J, Mathematics for Computer Science, Tom Leighton【英】](https://www.bilibili.com/video/av34841911)
 
+[耶鲁 博弈论 (ECON-159, Game Theory)](http://www.bilibili.com/video/av36916092)
+
 ---
 
 ## 物理 / Physics
@@ -268,6 +270,40 @@
 
 [耶鲁 哲学：死亡 (PHIL 176, Philosophy - Death)](https://www.bilibili.com/video/av38578377)
 
+[耶鲁 人性的哲学与科学 (PHIL-181, Philosophy and the Science of Human Nature)【中英】](https://www.bilibili.com/video/av40390239/)
+
+---
+
+## 心理学 / Psychology
+
+[耶鲁 心理学导论 (PSYC 110, Introduction to Psychology)【中英】](https://www.bilibili.com/video/av39188755/)
+
+[耶鲁 有关食物的心理学、生物学和政治学 (PSYC 123, The Psychology, Biology and Politics of Food)](https://www.bilibili.com/video/av40421618)
+
+---
+
+## 政治学 / Political Science
+
+[耶鲁 资本主义：成功、危机与改革 (PLSC-270, Capitalism Success Crisis and Reform)](https://www.bilibili.com/video/av36753783)
+
+---
+
+## 社会学 / Sociology
+
+[耶鲁 现代社会理论基础 (SOCY-151, Foundations of Modern Social Theory)](https://www.bilibili.com/video/av40001616/)
+
+---
+
+## 历史
+
+[耶鲁 古希腊历史简介 (CLCV-205, Introduction to Ancient Greek History)【中英】](https://www.bilibili.com/video/av40422038)
+
+[耶鲁 美国革命 (HIST 116, The American Revolution)](https://www.bilibili.com/video/av37302624)
+
+[耶鲁 欧洲历史：1648-1945 (HIST 202, European Civilization, 1648-1945)](http://www.bilibili.com/video/av38580624)
+
+[耶鲁 1600年后西方社会的流行病 (HIST-234, Epidemics in Western Society Since 1600)](https://www.bilibili.com/video/av36843229)
+
 ---
 
 ## 艺术 / Arts
@@ -281,6 +317,18 @@
 [麻省理工 热力学和动力学 (MIT 5.60, Thermodynamics & Kinetics)](https://www.bilibili.com/video/av37750585)
 
 [麻省理工 小分子光谱学和动力学 (MIT 5.80, Small-Molecule Spectroscopy and Dynamics)](https://www.bilibili.com/video/av37795048)
+
+---
+
+## 生物 / Biology
+
+[耶鲁 前沿生物医学工程 (BENG-100, Frontiers of Biomedical Engineering)](https://www.bilibili.com/video/av39938562/)
+
+[耶鲁 全球人口增长问题 (MCDB-150, Global Problems of Population Growth)【中英】](https://www.bilibili.com/video/av40248731/)
+
+## 地理 / Geography
+
+[耶鲁 大气、海洋和环境的变迁 (GG 140, The Atmosphere, the Ocean, and Environmental Change)](https://www.bilibili.com/video/av38452735)
 
 ---
 
