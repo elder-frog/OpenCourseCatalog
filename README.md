@@ -72,11 +72,13 @@
 
 [解析数论 (Hindi Urdu MTH435, Analytic Number Theory in Hindi Urdu)【英】](https://www.bilibili.com/video/av47039642)
 
-[法国高等科学研究所 (IHES, Faltings Heights and L-series)](https://www.bilibili.com/video/av47425317)
+[法国高等科学研究所 Faltings Heights and L-series (IHES)](https://www.bilibili.com/video/av47425317)
 
-[法国高等科学研究所 (IHES, Indsheaves, temperate holomorphic functions and irregular RH correspondence)](https://www.bilibili.com/video/av47569089)
+[法国高等科学研究所 Indsheaves, temperate holomorphic functions and irregular RH correspondence (IHES)](https://www.bilibili.com/video/av47569089)
 
 [普林斯顿高等研究院 岩泽理论 (IAS, Iwasawa Theory)【英】](https://www.bilibili.com/video/av47821521)
+
+[霍奇理论 (Лаборатория Зеркальной симметрии, Hodge Theory: Old and New)](https://www.bilibili.com/video/av48796466)
 
 ### 概率论 / Probability Theory
 
