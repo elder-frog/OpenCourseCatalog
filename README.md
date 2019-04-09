@@ -114,6 +114,8 @@
 
 [斯坦福 广义相对论 (PHYSICS 262, General Relativity, Leonard Susskind)](https://www.bilibili.com/video/av36417533)
 
+[国际理论物理中心 广义相对论 (ICTP HEP-GR, General Relativity, 2017-2018)【英】](https://www.bilibili.com/video/av42486901)
+
 ### 量子力学 / Quantum Mechanics
 
 [麻省理工 量子物理 I (8.04, Quantum Physical I, Allan Adams)【英】](https://www.bilibili.com/video/av36201117)
