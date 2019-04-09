@@ -176,6 +176,8 @@
 
 ### 其他 / Other
 
+[加州大学尔湾分校 数学方法 (UCI PHYSICS 50, Math Methods)【英】](https://www.bilibili.com/video/av48838912/)
+
 [国际理论物理中心 多体现象学 (ICTP CMP-MBP, Many-Body Phenomenology, 2017-2018)【英】](https://www.bilibili.com/video/av46730402)
 
 ---
