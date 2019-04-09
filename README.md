@@ -126,6 +126,8 @@
 
 [剑桥 量子场论 (Cambridge, Quantum Field Theory)【英】](https://www.bilibili.com/video/av37858651)
 
+[国际理论物理中心 量子电动力学 (ICTP HEP-QED, Quantum Electrodynamics, 2018-2019)【英】](https://www.bilibili.com/video/av46121646)
+
 [斯坦福 量子纠缠：第一部分 & 第二部分 (Stanford, Quantum Entanglements Part I & II)【英】](https://www.bilibili.com/video/av39879998/)
 
 [国际理论物理中心 相对论量子力学 (ICTP HEP-RQM, Relativistic Quantum Mechanics, 2018-2019)【英】](https://www.bilibili.com/video/av45731178)
