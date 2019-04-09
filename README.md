@@ -210,6 +210,8 @@
 
 [麻省理工 计算结构 (MIT 6.004, Computation Structures, Chris Terman)](https://www.bilibili.com/video/av37375242)
 
+[伯克利 计算机结构与工程 (CS 152, Computer Architecture and Engineering)【英】](https://www.bilibili.com/video/av47656678)
+
 ### 操作系统 / Operating System
 
 [伯克利 计算机操作系统 (CS 162, Operating Systems and Systems Programming)【英】](https://www.bilibili.com/video/av40296618/)
