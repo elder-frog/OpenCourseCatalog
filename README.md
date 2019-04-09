@@ -160,6 +160,10 @@
 
 [斯坦福 弦理论和M理论 (PHYSICS 153, String Theory & M-Theory, Leonard Susskind)](https://www.bilibili.com/video/av36404555)
 
+### 其他 / Other
+
+[国际理论物理中心 多体现象学 (ICTP CMP-MBP, Many-Body Phenomenology, 2017-2018)【英】](https://www.bilibili.com/video/av46730402)
+
 ---
 
 ## 计算机 / Computer Science
