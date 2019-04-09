@@ -122,6 +122,8 @@
 
 [麻省理工 量子物理 II (MIT 8.05, Quantum Physics II)【英】](https://www.bilibili.com/video/av39208592/)
 
+[麻省理工 量子物理 III (MIT 8.06, Quantum Physics III)【暂无字幕】](https://www.bilibili.com/video/av46291065)
+
 [斯坦福 高等量子力学 (Stanford, Advanced Quantum Mechanics)【无】](https://www.bilibili.com/video/av39800934/)
 
 [剑桥 量子场论 (Cambridge, Quantum Field Theory)【英】](https://www.bilibili.com/video/av37858651)
