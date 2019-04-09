@@ -70,6 +70,8 @@
 
 [解析数论 (Hindi Urdu MTH435, Analytic Number Theory in Hindi Urdu)【英】](https://www.bilibili.com/video/av47039642)
 
+[法国高等科学研究所 (IHES, Faltings Heights and L-series)](https://www.bilibili.com/video/av47425317)
+
 ### 概率论 / Probability Theory
 
 [麻省理工 概率分析及应用 (MIT 6.041,Probability Systems Analysis and Applied Probability)【英】](https://www.bilibili.com/video/av34761771)
