@@ -238,6 +238,14 @@
 
 ---
 
+## 哲学 / Philosophy
+
+[牛津 哲学 (Oxford, General Philosophy)【英】](https://www.bilibili.com/video/av43532053)
+
+[耶鲁 哲学：死亡 (PHIL 176, Philosophy - Death)](https://www.bilibili.com/video/av38578377)
+
+---
+
 ## 艺术 / Arts
 
 [耶鲁 聆听音乐 (Introduction To Classical Music)](https://www.bilibili.com/video/av38583482)
