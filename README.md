@@ -68,6 +68,8 @@
 
 [代数数论 (Algebraic Number Theory)【英】](https://www.bilibili.com/video/av39795355/)
 
+[解析数论 (Hindi Urdu MTH435, Analytic Number Theory in Hindi Urdu)【英】](https://www.bilibili.com/video/av47039642)
+
 ### 概率论 / Probability Theory
 
 [麻省理工 概率分析及应用 (MIT 6.041,Probability Systems Analysis and Applied Probability)【英】](https://www.bilibili.com/video/av34761771)
