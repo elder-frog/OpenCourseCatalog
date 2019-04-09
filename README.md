@@ -136,6 +136,8 @@
 
 [斯坦福 粒子物理 III：超对称与大统一理论 (Stanford, Supersymmetry and Grand Unification)【英】](https://www.bilibili.com/video/av39811769/)
 
+[国际理论物理中心 粒子物理 (ICTP HEP-PP, Particle Physics, 2018-2019)【英】](https://www.bilibili.com/video/av43078622)
+
 [国际理论物理中心 标准模型 (ICTP HEP-SM, The Standard Model, 2017-2018)【英】](https://www.bilibili.com/video/av42390149)
 
 [国际理论物理中心 超对称 (ICTP HEP-SFT, Introduction to Supersymmetry, 2017-2018)【无】](https://www.bilibili.com/video/av42582532)
