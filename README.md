@@ -138,6 +138,8 @@
 
 [国际理论物理中心 标准模型 (ICTP HEP-SM, The Standard Model, 2017-2018)【英】](https://www.bilibili.com/video/av42390149)
 
+[国际理论物理中心 超对称 (ICTP HEP-SFT, Introduction to Supersymmetry, 2017-2018)【无】](https://www.bilibili.com/video/av42582532)
+
 ### 宇宙学 / Cosmology
 
 [斯坦福 宇宙学 (Stanford, Cosmology)【部分字幕】](https://www.bilibili.com/video/av39804112/)
