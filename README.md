@@ -104,11 +104,13 @@
 
 [斯坦福 统计力学 (Stanford, Statistical Mechanics)【英，部分】](https://www.bilibili.com/video/av39878940/)
 
-[麻省理工 狭义相对论与电动力学 (Special Relativity and Electrodynamics)【无字幕】](https://www.bilibili.com/video/av39159660/)
+[国际理论物理中心 高级统计力学 (ICTP CMP-ASM, Advanced Statistical Mechanics, 2017-2018)【英】](https://www.bilibili.com/video/av46557918)
 
 [国际理论物理中心 固体中的电子和声子 (ICTP CMP-EPS, Electrons and Phonons in Solids, 2018-2019)](http://member.bilibili.com/v2#/upload-manager/article)
 
 ### 相对论 / Theory of Relativity
+
+[麻省理工 狭义相对论与电动力学 (Special Relativity and Electrodynamics)【无字幕】](https://www.bilibili.com/video/av39159660/)
 
 [斯坦福 爱因斯坦广义相对论 2008版 (PHYSICS 262, Einstein's General Theory of Relativity)](https://www.bilibili.com/video/av37581334)
 
