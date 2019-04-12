@@ -80,6 +80,8 @@
 
 [霍奇理论 (Лаборатория Зеркальной симметрии, Hodge Theory: Old and New)](https://www.bilibili.com/video/av48796466)
 
+[2013 Sep. 25-27 ANRThéorie计划中期会议 p-adic Hodge Theory and developments](https://www.bilibili.com/video/av48932077)
+
 ### 概率论 / Probability Theory
 
 [麻省理工 概率分析及应用 (MIT 6.041,Probability Systems Analysis and Applied Probability)【英】](https://www.bilibili.com/video/av34761771)
