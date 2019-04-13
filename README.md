@@ -320,6 +320,20 @@
 
 ## 化学 / Chemistry
 
+### 无机化学 / Inorganic Chemistry
+
+[加州大学尔湾分校 无机化学 A (普通化学 A) (CHEM 1A, General Chemistry)【英】](https://www.bilibili.com/video/av49109750/)
+
+[加州大学尔湾分校 无机化学 B (普通化学 B) (CHEM 1B, General Chemistry)【英】](https://www.bilibili.com/video/av49126654/)
+
+[加州大学尔湾分校 无机化学 C (普通化学 C) (CHEM 1C, General Chemistry)【英】](https://www.bilibili.com/video/av49207150/)
+
+### 有机化学 / Organic Chemistry
+
+待传
+
+### 其他 / Other
+
 [麻省理工 热力学和动力学 (MIT 5.60, Thermodynamics & Kinetics)](https://www.bilibili.com/video/av37750585)
 
 [麻省理工 小分子光谱学和动力学 (MIT 5.80, Small-Molecule Spectroscopy and Dynamics)](https://www.bilibili.com/video/av37795048)
