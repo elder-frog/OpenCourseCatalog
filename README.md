@@ -330,7 +330,11 @@
 
 ### 有机化学 / Organic Chemistry
 
-待传
+[加州大学尔湾分校 有机化学 A (CHEM 51A, Organic Chemistry)【英】](https://www.bilibili.com/video/av49324767/)
+
+[加州大学尔湾分校 有机化学 B (CHEM 51B, Organic Chemistry)【英】](https://www.bilibili.com/video/av49335838/)
+
+[加州大学尔湾分校 有机化学 C (CHEM 51C, Organic Chemistry)【英】](https://www.bilibili.com/video/av49364178/)
 
 ### 其他 / Other
 
