@@ -106,13 +106,23 @@
 
 ## 物理 / Physics
 
-### 经典力学 / Classical Mechanics
+### 基础物理 / Fundamentals of Physics
+
+#### 麻省理工 / MIT
+
+下面三个是 Walter Lewin 的课程
 
 [麻省理工 物理I：经典力学 (MIT 8.01x, Physics I Classical Mechanics)](https://www.bilibili.com/video/av37990792)
 
 [麻省理工 物理II：电和磁 (MIT 8.02x, Physics II Electricity and Magnetism)](https://www.bilibili.com/video/av38022936)
 
+[麻省理工 物理 III：振动与波 (MIT 8.03SC Physics III: Vibrations and Waves)【英】](https://www.bilibili.com/video/av49406678/)
+
+下面这个个是 2016 年录制的
+
 [麻省理工 物理 III：振动与波 (MIT 8.03SC Physics III: Vibrations and Waves)【英】](https://www.bilibili.com/video/av39387583/)
+
+### 经典力学 / Classical Mechanics
 
 [耶鲁 基础物理 I (PHYS-200, Fundamentals of Physics I)](https://www.bilibili.com/video/av36904794)
 
