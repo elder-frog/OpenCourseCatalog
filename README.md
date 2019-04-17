@@ -118,13 +118,17 @@
 
 [麻省理工 物理 III：振动与波 (MIT 8.03SC Physics III: Vibrations and Waves)【英】](https://www.bilibili.com/video/av49406678/)
 
-下面这个个是 2016 年录制的
+下面这个是 2016 年录制的
 
 [麻省理工 物理 III：振动与波 (MIT 8.03SC Physics III: Vibrations and Waves)【英】](https://www.bilibili.com/video/av39387583/)
 
-### 经典力学 / Classical Mechanics
+#### 耶鲁 / Yale
 
 [耶鲁 基础物理 I (PHYS-200, Fundamentals of Physics I)](https://www.bilibili.com/video/av36904794)
+
+[耶鲁 基础物理 II (PHYS-201, Fundamentals of Physics II)【英】](https://www.bilibili.com/video/av49552462/)
+
+### 经典力学 / Classical Mechanics
 
 [斯坦福 经典力学 (Stanford, Classical Mechanics)](https://www.bilibili.com/video/av37992497)
 
