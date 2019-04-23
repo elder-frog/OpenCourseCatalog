@@ -1,24 +1,12 @@
-# 公开课目录
+# BiliBili公开课目录
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![License: Anti 996](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 这是一份公开课的目录，这里的视频大多来自 YouTube 等国内无法访问的网站，为了方便国内的朋友观看，我将这些视频搬运到了 [Bilibili](https://space.bilibili.com/12721139)。
 
-由于某些你懂的原因，历史/政治/文化等公开课无法过审，我将这些课程上传到了百度云，你可以在我的 [淘宝店铺](https://shop234574636.taobao.com/?spm=a1z10.1-c-s.0.0.7556325cFiARhb) 中获取链接。
+由于某些你懂的原因，台湾地区公开课无法过审，我将这些课程上传到了百度云，你可以查看 [淘宝公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog/blob/master/TaoBao.md)，或直接前往 [淘宝店铺](https://shop234574636.taobao.com/?spm=a1z10.1-c-s.0.0.7556325cFiARhb) 中获取链接。
 
 ## 数学 / Math
-
-### 数学分析 / Mathematical Analysis
-
-#### 国立台湾大学 齐振宇
-
-[国立台湾大学 微积分一 (CASE)](https://www.bilibili.com/video/av40859191/)
-
-[国立台湾大学 微积分二 (CASE)](https://www.bilibili.com/video/av40883243/)
-
-[国立台湾大学 分析一 (CASE)](https://www.bilibili.com/video/av41273169/)
-
-[国立台湾大学 分析二 (CASE)](https://www.bilibili.com/video/av41382014/)
 
 ### 微积分 / Calculus
 
