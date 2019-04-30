@@ -8,6 +8,8 @@
 
 ## 数学 / Math
 
+### [数学分析 / Mathematical Analysis](https://github.com/wenhan-wu/OpenCourseCatalog/blob/master/TaoBao.md#%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90--mathematical-analysis)
+
 ### 微积分 / Calculus
 
 [麻省理工 单变量微积分 (MIT 18.01, Single Variable Calculus, David Jerison)【英】](https://www.bilibili.com/video/av34481507)
@@ -345,6 +347,8 @@
 [麻省理工 热力学和动力学 (MIT 5.60, Thermodynamics & Kinetics)](https://www.bilibili.com/video/av37750585)
 
 [麻省理工 小分子光谱学和动力学 (MIT 5.80, Small-Molecule Spectroscopy and Dynamics)](https://www.bilibili.com/video/av37795048)
+
+[俄勒冈州立大学 生物化学基础 (OSU BB 350, Elementary Biochemistry)【英】](https://www.bilibili.com/video/av50338379/)
 
 ---
 
