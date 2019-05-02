@@ -248,6 +248,8 @@
 
 [卡内基梅隆 高级数据库 2019 (CMU 15-721 Advanced Database Systems, Spring 2019)【英】](https://www.bilibili.com/video/av50204001/)
 
+[卡内基梅隆 时间序列数据库 (CMU, Time Series Database)](https://www.bilibili.com/video/av51118320/)
+
 ### 计算机网络 / Network
 
 [麻省理工 数字通信系统 (6.02, Digital Communication Systems)](https://www.bilibili.com/video/av37715284)
