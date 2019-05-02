@@ -60,6 +60,8 @@
 
 ### 数论 / Number Theory
 
+[加利福尼亚大学圣迭戈分校 数论 (UCSD Math 205, Topics in Number Theory)](https://www.bilibili.com/video/av51105699/)
+
 [代数数论 (Algebraic Number Theory)【英】](https://www.bilibili.com/video/av39795355/)
 
 [解析数论 (Hindi Urdu MTH435, Analytic Number Theory in Hindi Urdu)【英】](https://www.bilibili.com/video/av47039642)
