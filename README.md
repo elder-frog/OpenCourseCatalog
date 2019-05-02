@@ -46,6 +46,8 @@
 
 [傅立叶研究所 Arakelov几何和丢番图应用 (Géométrie d'Arakelov et applications diophantiennes)【无】](https://www.bilibili.com/video/av41015190/)
 
+[哥伦比亚大学 表示论与数论 (Columbia University, Representation theory and number theory)](https://www.bilibili.com/video/av50893071/)
+
 ### 拓扑 / Topology
 
 ### 几何 / Geometry
