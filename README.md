@@ -50,6 +50,8 @@
 
 ### 拓扑 / Topology
 
+[伊利诺伊大学 同伦论：工具与应用 (Illinois, Homotopy: Theory tools and applications)](https://www.bilibili.com/video/av51368305/)
+
 ### 几何 / Geometry
 
 [国际理论物理中心 微分几何 (ICTP MTH-DG, Differential Geometry)【英】](https://www.bilibili.com/video/av38085326)
