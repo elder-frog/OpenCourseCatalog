@@ -62,6 +62,8 @@
 
 [哈佛大学数学科学与应用中心 导出代数几何 (Harvard CMSA, Derived Algebraic/Differential Geo)](https://www.bilibili.com/video/av51687046/)
 
+[美国国家数学科学研究所 导出代数几何及其应用 (MSRI, Derived algebraic geometry and its applications)](https://www.bilibili.com/video/av51788414/)
+
 ### 数论 / Number Theory
 
 [加利福尼亚大学圣迭戈分校 数论 (UCSD Math 205, Topics in Number Theory)](https://www.bilibili.com/video/av51105699/)
