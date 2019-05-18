@@ -308,6 +308,8 @@
 
 [耶鲁 人性的哲学与科学 (PHIL-181, Philosophy and the Science of Human Nature)【中英】](https://www.bilibili.com/video/av40390239/)
 
+[edX 能力与责任：超级英雄的哲学 (edX, Power and Responsibility: Doing Philosophy with Superheroes)](https://www.bilibili.com/video/av52351351/)
+
 ---
 
 ## 心理学 / Psychology
