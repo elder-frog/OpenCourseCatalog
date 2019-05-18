@@ -348,6 +348,8 @@
 
 [耶鲁 聆听音乐 (Introduction To Classical Music)](https://www.bilibili.com/video/av38583482)
 
+[edX 欧洲绘画：从莱昂纳多、伦勃朗到戈雅 (edX, European Paintings - From Leonardo to Rembrandt to Goya)](https://www.bilibili.com/video/av52131926/)
+
 ---
 
 ## 化学 / Chemistry
