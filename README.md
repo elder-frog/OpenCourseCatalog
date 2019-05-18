@@ -256,6 +256,8 @@
 
 [卡内基梅隆 时间序列数据库 (CMU, Time Series Database)](https://www.bilibili.com/video/av51118320/)
 
+[卡内基梅隆 硬件加速数据库 (CMU, Hardware Accelerated Database)](https://www.bilibili.com/video/av51652730/)
+
 ### 计算机网络 / Network
 
 [麻省理工 数字通信系统 (6.02, Digital Communication Systems)](https://www.bilibili.com/video/av37715284)
