@@ -340,6 +340,8 @@
 
 [耶鲁 1600年后西方社会的流行病 (HIST-234, Epidemics in Western Society Since 1600)](https://www.bilibili.com/video/av36843229)
 
+[edX 日本近现代史：西方化，抗争与现代化 (edX, Visualizing Japan 1850s-1930s)](https://www.bilibili.com/video/av52040625/)
+
 ---
 
 ## 艺术 / Arts
