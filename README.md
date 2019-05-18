@@ -336,6 +336,8 @@
 
 [edX 现代文学著作赏析 (edX, Modern Masterpieces of World Literature)](https://www.bilibili.com/video/av52119060/)
 
+[edX 美国诗歌：南北战争及其影响 (edX, Poetry in America: The Civil War and Its Aftermath)](https://www.bilibili.com/video/av52583593/)
+
 ---
 
 ## 历史 / History
