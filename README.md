@@ -330,7 +330,13 @@
 
 ---
 
-## 历史
+## 人文 / Human Culture
+
+[edX 现代文学著作赏析 (edX, Modern Masterpieces of World Literature)](https://www.bilibili.com/video/av52119060/)
+
+---
+
+## 历史 / History
 
 [耶鲁 古希腊历史简介 (CLCV-205, Introduction to Ancient Greek History)【中英】](https://www.bilibili.com/video/av40422038)
 
