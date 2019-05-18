@@ -154,6 +154,8 @@
 
 ### 量子力学 / Quantum Mechanics
 
+[上海交通大学 量子力学与统计力学 (SJTU, Quantum Mechanics and Statistical Mechanics)](https://www.bilibili.com/video/av51954299/)
+
 [麻省理工 量子物理 I (8.04, Quantum Physical I, Allan Adams)【英】](https://www.bilibili.com/video/av36201117)
 
 [麻省理工 量子物理 II (MIT 8.05, Quantum Physics II)【英】](https://www.bilibili.com/video/av39208592/)
