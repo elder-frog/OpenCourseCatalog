@@ -60,6 +60,8 @@
 
 [克雷数学研究所 算术几何 (CMI, Arithmetic geometry)【无字幕】](https://www.bilibili.com/video/av39041115/)
 
+[哈佛大学数学科学与应用中心 导出代数几何 (Harvard CMSA, Derived Algebraic/Differential Geo)](https://www.bilibili.com/video/av51687046/)
+
 ### 数论 / Number Theory
 
 [加利福尼亚大学圣迭戈分校 数论 (UCSD Math 205, Topics in Number Theory)](https://www.bilibili.com/video/av51105699/)
