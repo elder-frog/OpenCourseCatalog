@@ -50,6 +50,8 @@
 
 [哥伦比亚大学 表示论与数论 (Columbia University, Representation theory and number theory)](https://www.bilibili.com/video/av50893071/)
 
+[印度马德拉斯理工学院 黎曼曲面和代数曲线入门 一维复环面和椭圆曲线 (NPTEL, An Introduction to Riemann Surfaces and Algebraic Curves/ Complex 1-Tori and Elliptic Curves)](https://www.bilibili.com/video/av53029148/)
+
 ### 拓扑 / Topology
 
 [伊利诺伊大学 同伦论：工具与应用 (Illinois, Homotopy: Theory tools and applications)](https://www.bilibili.com/video/av51368305/)
