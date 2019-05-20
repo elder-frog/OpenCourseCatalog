@@ -338,6 +338,8 @@
 
 [edX 美国诗歌：南北战争及其影响 (edX, Poetry in America: The Civil War and Its Aftermath)](https://www.bilibili.com/video/av52583593/)
 
+[edX 美国诗歌：现代主义 (edX, Poetry in America: Modernism)](https://www.bilibili.com/video/av52880431/)
+
 ---
 
 ## 历史 / History
