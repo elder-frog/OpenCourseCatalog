@@ -4,7 +4,7 @@
 
 这是一份公开课的目录，这里的视频大多来自 YouTube 等国内无法访问的网站，为了方便国内的朋友观看，我将这些视频搬运到了 [Bilibili](https://space.bilibili.com/12721139)。
 
-由于某些你懂的原因，台湾地区公开课无法过审，我将这些课程上传到了百度云，你可以查看 [淘宝公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog/blob/master/TaoBao.md)，或直接前往 [淘宝店铺](https://shop234574636.taobao.com/?spm=a1z10.1-c-s.0.0.7556325cFiARhb) 中获取链接。
+由于某些你懂的原因，台湾地区公开课不易过审，我将这些课程上传到了百度云，你可以查看 [台湾等地区公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog/blob/master/TaoBao.md)。最近在做一个百度云机器人，完成以后可以通过机器人获取链接。
 
 ## 数学 / Math
 
@@ -39,6 +39,8 @@
 [麻省理工 线性代数 (MIT 18.06, Linear Algebra, Gilbert Strang)【中英】](https://www.bilibili.com/video/av34573725)
 
 [国际理论物理中心 抽象代数 (ICTP MTH-AA, Abstract Algebra, 2013-2014)【英】](https://www.bilibili.com/video/av38339505)
+
+[美国国家数学科学研究所 交换代数入门 (MSRI W-196, Introductory Workshop in Commutative Algebra)](https://www.bilibili.com/video/av53067875/)
 
 [国际理论物理中心 李群与李代数 (ICTP HEP-LL, Lie Groups and Lie Algebras, 2018-2019)【英】](https://www.bilibili.com/video/av38913620/)
 
