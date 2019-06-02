@@ -316,8 +316,6 @@
 
 [耶鲁 人性的哲学与科学 (PHIL-181, Philosophy and the Science of Human Nature)【中英】](https://www.bilibili.com/video/av40390239/)
 
-[edX 能力与责任：超级英雄的哲学 (edX, Power and Responsibility: Doing Philosophy with Superheroes)](https://www.bilibili.com/video/av52351351/)
-
 ---
 
 ## 心理学 / Psychology
@@ -340,16 +338,6 @@
 
 ---
 
-## 人文 / Human Culture
-
-[edX 现代文学著作赏析 (edX, Modern Masterpieces of World Literature)](https://www.bilibili.com/video/av52119060/)
-
-[edX 美国诗歌：南北战争及其影响 (edX, Poetry in America: The Civil War and Its Aftermath)](https://www.bilibili.com/video/av52583593/)
-
-[edX 美国诗歌：现代主义 (edX, Poetry in America: Modernism)](https://www.bilibili.com/video/av52880431/)
-
----
-
 ## 历史 / History
 
 [耶鲁 古希腊历史简介 (CLCV-205, Introduction to Ancient Greek History)【中英】](https://www.bilibili.com/video/av40422038)
@@ -360,15 +348,11 @@
 
 [耶鲁 1600年后西方社会的流行病 (HIST-234, Epidemics in Western Society Since 1600)](https://www.bilibili.com/video/av36843229)
 
-[edX 日本近现代史：西方化，抗争与现代化 (edX, Visualizing Japan 1850s-1930s)](https://www.bilibili.com/video/av52040625/)
-
 ---
 
 ## 艺术 / Arts
 
 [耶鲁 聆听音乐 (Introduction To Classical Music)](https://www.bilibili.com/video/av38583482)
-
-[edX 欧洲绘画：从莱昂纳多、伦勃朗到戈雅 (edX, European Paintings - From Leonardo to Rembrandt to Goya)](https://www.bilibili.com/video/av52131926/)
 
 ---
 
