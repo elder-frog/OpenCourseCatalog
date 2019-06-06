@@ -18,6 +18,8 @@
 
 [edX 现代文学著作赏析 (edX, Modern Masterpieces of World Literature)](https://www.bilibili.com/video/av52119060/) / [edX Link](https://www.edx.org/course/modern-masterpieces-world-literature-3)
 
+[edX 美国诗歌：惠特曼 (edX, Poetry in America: Whitman)](https://www.bilibili.com/video/av54450033/) / [edX Link](https://www.edx.org/course/poetry-america-whitman-harvardx-ampox-3-0)
+
 [edX 美国诗歌：南北战争及其影响 (edX, Poetry in America: The Civil War and Its Aftermath)](https://www.bilibili.com/video/av52583593/) / [edX Link](https://www.edx.org/course/poetry-america-civil-war-its-aftermath-harvardx-ampox-5-0)
 
 [edX 美国诗歌：现代主义 (edX, Poetry in America: Modernism)](https://www.bilibili.com/video/av52880431/) / [edX Link](https://www.edx.org/course/poetry-america-modernism-harvardx-ampox-6-0)
