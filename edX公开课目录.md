@@ -14,6 +14,8 @@
 
 [edX 日本近现代史：西方化，抗争与现代化 (edX, Visualizing Japan 1850s-1930s)](https://www.bilibili.com/video/av52040625/) / [edX Link](https://www.edx.org/course/visualizing-japan-1850s-1930s-westernization-protest-modernity)
 
+[edX 现代葡萄酒世界的历史 (edX, The World History of Modern Wine)](https://www.bilibili.com/video/av55251238/) / [edX Link](https://www.edx.org/course/the-history-of-modern-wine)
+
 ## 人文 / Humanities
 
 [edX 现代文学著作赏析 (edX, Modern Masterpieces of World Literature)](https://www.bilibili.com/video/av52119060/) / [edX Link](https://www.edx.org/course/modern-masterpieces-world-literature-3)
