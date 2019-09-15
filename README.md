@@ -116,6 +116,8 @@
 
 [MSRI 朗兰兹纲领的近期进展 (MSRI W-855, Recent progress in Langlands Program)](https://www.bilibili.com/video/av55649612/)
 
+[班夫国际研究所 稳定迹公式，自守形式和伽罗瓦表示 (BIRS, The stable trace formula, automorphic forms, and Galois representations)](https://www.bilibili.com/video/av55827530/)
+
 ### 其他 / Other
 
 [斯坦福 凸优化 (Stanford EE364, Convex Optimization)【英】](https://www.bilibili.com/video/av38112145)
