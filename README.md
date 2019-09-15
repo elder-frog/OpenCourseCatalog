@@ -48,6 +48,8 @@
 
 [美国国家数学科学研究所 交换代数入门 (MSRI W-196, Introductory Workshop in Commutative Algebra)](https://www.bilibili.com/video/av53067875/)
 
+[国际理论物理中心 表示论 (ICTP MTH-RT 2018, Representation Theory)](https://www.bilibili.com/video/av56611018/)
+
 [国际理论物理中心 李群与李代数 (ICTP HEP-LL, Lie Groups and Lie Algebras, 2018-2019)【英】](https://www.bilibili.com/video/av38913620/)
 
 [切比雪夫实验室 有理连通点的算法(Chebyshev Lab, Arithmetic on rationally connected varieties)【无字幕】](https://www.bilibili.com/video/av39162675/)
