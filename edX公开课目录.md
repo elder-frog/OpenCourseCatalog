@@ -37,3 +37,5 @@
 [edX 哲学与批判性思维 (edX, Philosophy and Critical Thinking)](https://www.bilibili.com/video/av53162650/) / [edX](https://www.edx.org/course/philosophy-and-critical-thinking-0)
 
 [edX 悖论与无穷 (edX, Paradox and Infinity)](https://www.bilibili.com/video/av55608515/) / [edX](https://www.edx.org/course/paradox-and-infinity)
+
+[edX 哲学导论：神，知识与意识 (edX, Introduction to Philosophy: God, Knowledge and Consciousness)](https://www.bilibili.com/video/av55674536/) / [edX](https://www.edx.org/course/introduction-to-philosophy-god-knowledge-and-consciousness-2)
