@@ -126,6 +126,8 @@
 
 [美国国家数学科学研究所 非交换代数几何 (MSRI 648, Noncommutative Algebraic Geometry)【英】](https://www.bilibili.com/video/av39156109/)
 
+[BIRS 代数几何中的Syzygies和与弦理论的联系 (BIRS 12w5117, Syzygies in Algebraic Geometry)](https://www.bilibili.com/video/av57723097/)
+
 ### 朗兰兹纲领 / Langlands Program
 
 [MSRI 朗兰兹纲领的近期进展 (MSRI W-855, Recent progress in Langlands Program)](https://www.bilibili.com/video/av55649612/)
