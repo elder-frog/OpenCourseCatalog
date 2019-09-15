@@ -68,6 +68,8 @@
 
 [美国国家数学科学研究所 代数栈上的相交理论 (MSRI W-138, Intersection Theory on Stacks)](https://www.bilibili.com/video/av53120240/)
 
+[IHES 代数分析 (IHES 1914, Algebraic Analysis in honor of Masaki Kashiwara)](https://www.bilibili.com/video/av57864978/)
+
 ### 拓扑 / Topology
 
 [伊利诺伊大学 同伦论：工具与应用 (Illinois, Homotopy: Theory tools and applications)](https://www.bilibili.com/video/av51368305/)
