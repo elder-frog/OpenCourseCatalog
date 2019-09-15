@@ -210,6 +210,10 @@
 
 [国际理论物理中心 超对称 (ICTP HEP-SFT, Introduction to Supersymmetry, 2017-2018)【无】](https://www.bilibili.com/video/av42582532)
 
+### 场论 / Field Theory
+
+[国际理论物理中心 量子场论 (ICTP HEP-QFT 2018, Quantum Field Theory)](https://www.bilibili.com/video/av56375710/)
+
 ### 宇宙学 / Cosmology
 
 [斯坦福 宇宙学 (Stanford, Cosmology)【部分字幕】](https://www.bilibili.com/video/av39804112/)
