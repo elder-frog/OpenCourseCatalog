@@ -482,9 +482,9 @@
 
 如果你在上面的目录中没有找到你需要的公开课，那么你可以在下面列出的链接中寻找。
 
-[Vanities](https://space.bilibili.com/532461): [课程总览](https://www.bilibili.com/read/cv1006774)
+[长明-R](https://space.bilibili.com/532461): [课程总览](https://www.bilibili.com/read/cv1006774)
 
-[shutuka](https://space.bilibili.com/233271028): [B站课程有哪些值得上的那些youtube都没有的](https://www.bilibili.com/read/cv1569425)
+[shtuka](https://space.bilibili.com/233271028): [B站课程有哪些值得上的那些youtube都没有的](https://www.bilibili.com/read/cv1569425)
 
 [77mathphy](https://space.bilibili.com/23023591)
 
