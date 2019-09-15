@@ -64,6 +64,8 @@
 
 [西江大学 代数曲面 (Sogang, Lectures on Algebraic Surfaces)](https://www.bilibili.com/video/av57111511/)
 
+[BIRS 代数栈：进度与展望 (BIRS 12w5027, Algebraic Stacks: Progress and Prospects)](https://www.bilibili.com/video/av57696030/)
+
 [美国国家数学科学研究所 代数栈上的相交理论 (MSRI W-138, Intersection Theory on Stacks)](https://www.bilibili.com/video/av53120240/)
 
 ### 拓扑 / Topology
