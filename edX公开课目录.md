@@ -35,3 +35,5 @@
 [edX 能力与责任：超级英雄的哲学 (edX, Power and Responsibility: Doing Philosophy with Superheroes)](https://www.bilibili.com/video/av52351351/) / [edX](https://www.edx.org/course/power-and-responsibility-doing-philosophy-with-superheroes-2)
 
 [edX 哲学与批判性思维 (edX, Philosophy and Critical Thinking)](https://www.bilibili.com/video/av53162650/) / [edX](https://www.edx.org/course/philosophy-and-critical-thinking-0)
+
+[edX 悖论与无穷 (edX, Paradox and Infinity)](https://www.bilibili.com/video/av55608515/) / [edX](https://www.edx.org/course/paradox-and-infinity)
