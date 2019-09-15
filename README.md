@@ -338,6 +338,10 @@
 
 [麻省理工 分布式系统 (MIT 6.824, Distributed Systems)](https://www.bilibili.com/video/av38073607)
 
+### 计算机安全 / Security
+
+[MIT 密码学 (MIT 6.875, Cryptography Sp 2018)](https://www.bilibili.com/video/av58961353/)
+
 ### 其他 / Other
 
 [麻省理工 计算机系统工程 (6.033, Computer System Engineering, Sp 2005)](https://www.bilibili.com/video/av36929946)
