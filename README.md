@@ -70,6 +70,8 @@
 
 [克雷数学研究所 算术几何 (CMI, Arithmetic geometry)【无字幕】](https://www.bilibili.com/video/av39041115/)
 
+[巴黎数学科学基金会 双有理几何 (Sciences Maths Paris, Birational Geometry)](https://www.bilibili.com/video/av56182412/)
+
 ### 数论 / Number Theory
 
 [加利福尼亚大学圣迭戈分校 数论 (UCSD Math 205, Topics in Number Theory)](https://www.bilibili.com/video/av51105699/)
