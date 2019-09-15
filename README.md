@@ -68,6 +68,8 @@
 
 ### 几何 / Geometry
 
+[ICTP 微分几何 (ICTP MTH-DG 2018, Differential Geometry)](https://www.bilibili.com/video/av56849404/)
+
 [国际理论物理中心 微分几何 (ICTP MTH-DG, Differential Geometry)【英】](https://www.bilibili.com/video/av38085326)
 
 [克雷数学研究所 算术几何 (CMI, Arithmetic geometry)【无字幕】](https://www.bilibili.com/video/av39041115/)
