@@ -130,6 +130,8 @@
 
 [班夫国际研究所 稳定迹公式，自守形式和伽罗瓦表示 (BIRS, The stable trace formula, automorphic forms, and Galois representations)](https://www.bilibili.com/video/av55827530/)
 
+[IAS 走近几何朗兰兹纲领猜想的证明 (IAS, Towards the proof of the geometric Langlands)](https://www.bilibili.com/video/av57651093/)
+
 ### 其他 / Other
 
 [斯坦福 凸优化 (Stanford EE364, Convex Optimization)【英】](https://www.bilibili.com/video/av38112145)
