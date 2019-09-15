@@ -150,11 +150,11 @@
 
 [斯坦福 经典力学 (Stanford, Classical Mechanics)](https://www.bilibili.com/video/av37992497)
 
+### 统计物理 / Statistical Physics
+
 [斯坦福 统计力学 (Stanford, Statistical Mechanics)【英，部分】](https://www.bilibili.com/video/av39878940/)
 
 [国际理论物理中心 高级统计力学 (ICTP CMP-ASM, Advanced Statistical Mechanics, 2017-2018)【英】](https://www.bilibili.com/video/av46557918)
-
-[国际理论物理中心 固体中的电子和声子 (ICTP CMP-EPS, Electrons and Phonons in Solids, 2018-2019)](http://member.bilibili.com/v2#/upload-manager/article)
 
 ### 相对论 / Theory of Relativity
 
@@ -206,13 +206,17 @@
 
 [斯坦福 宇宙学与黑洞 (Stanford, Cosmology and Black Holes)【英】](https://www.bilibili.com/video/av40147682/)
 
-### 弦论 / String Theory
+### 数学物理 / Mathematical Physics
 
 [斯坦福 弦理论和M理论 (PHYSICS 153, String Theory & M-Theory, Leonard Susskind)](https://www.bilibili.com/video/av36404555)
 
-### 其他 / Other
-
 [加州大学尔湾分校 数学方法 (UCI PHYSICS 50, Math Methods)【英】](https://www.bilibili.com/video/av48838912/)
+
+### 凝聚态 / Condensed Matter Physics
+
+[国际理论物理中心 固体中的电子和声子 (ICTP CMP-EPS, Electrons and Phonons in Solids, 2018-2019)](http://member.bilibili.com/v2#/upload-manager/article)
+
+### 多体理论 / Many-Body Theory
 
 [国际理论物理中心 多体现象学 (ICTP CMP-MBP, Many-Body Phenomenology, 2017-2018)【英】](https://www.bilibili.com/video/av46730402)
 
