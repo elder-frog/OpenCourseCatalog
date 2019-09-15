@@ -52,7 +52,7 @@
 
 [国际理论物理中心 李群与李代数 (ICTP HEP-LL, Lie Groups and Lie Algebras, 2018-2019)【英】](https://www.bilibili.com/video/av38913620/)
 
-[切比雪夫实验室 有理连通点的算法(Chebyshev Lab, Arithmetic on rationally connected varieties)【无字幕】](https://www.bilibili.com/video/av39162675/)
+[切比雪夫实验室 连通簇上有理点的算术论题(Chebyshev Lab, Arithmetic on rationally connected varieties)【无字幕】](https://www.bilibili.com/video/av39162675/)
 
 [傅立叶研究所 Arakelov几何和丢番图应用 (Géométrie d'Arakelov et applications diophantiennes)【无】](https://www.bilibili.com/video/av41015190/)
 
@@ -105,6 +105,8 @@
 [斯坦福 线性动力系统入门 (Stanford EE263, Introduction to Linear Dynamical Systems)【英】](http://www.bilibili.com/video/av38374012)
 
 ### 代数几何 / Algebaric Geometry
+
+[ICTP 代数几何 (ICTP MTH-AG 2018, Algebraic Geometry)](https://www.bilibili.com/video/av56806940/)
 
 [国际理论物理中心 代数几何 (ICTP MTH-AG, Algebraic Geometry, 2013-2014)【英】](https://www.bilibili.com/video/av38456981)
 
