@@ -130,6 +130,8 @@
 
 [BIRS 代数几何中的Syzygies和与弦理论的联系 (BIRS 12w5117, Syzygies in Algebraic Geometry)](https://www.bilibili.com/video/av57723097/)
 
+[MSRI 现代模理论 (MSRI W-472, Modern Moduli Theory)](https://www.bilibili.com/video/av57947306/)
+
 [MSRI 代数几何中的形变理论与模空间 (MSRI S-419, Deformation Theory and Moduli in Algebaric Geometry)](https://www.bilibili.com/video/av57944105/)
 
 ### 朗兰兹纲领 / Langlands Program
