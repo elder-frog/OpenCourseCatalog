@@ -38,6 +38,8 @@
 
 [国际理论物理中心 复分析 (ICTP MTH-CA, Complex Analysis, 2013-2014)【英】](https://www.bilibili.com/video/av38415812)
 
+[ICTP 泛函分析 (ICTP MTH-FA 2018, Functional Analysis)](https://www.bilibili.com/video/av56957518/)
+
 [斯克利普斯学院 泛函分析与调和分析 (Scripps College, Basic Functional and Harmonic Analysis)【无字幕】](https://www.bilibili.com/video/av39098628/)
 
 ### 代数 / Algebra
