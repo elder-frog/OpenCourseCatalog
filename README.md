@@ -122,6 +122,8 @@
 
 [哈佛大学数学科学与应用中心 导出代数几何 (Harvard CMSA, Derived Algebraic/Differential Geo)](https://www.bilibili.com/video/av51687046/)
 
+[MSRI 导出代数几何、双有理几何与模空间 (MSRI W-862, Introductory Workshop: Derived Algebraic Geometry and Birational Geometry and Moduli Spaces)](https://www.bilibili.com/video/av58262354/)
+
 [美国国家数学科学研究所 导出代数几何及其应用 (MSRI, Derived algebraic geometry and its applications)](https://www.bilibili.com/video/av51788414/)
 
 [美国国家数学科学研究所 p进数几何 (MSRI, p-adic Geometry)](https://www.bilibili.com/video/av51914008/)
