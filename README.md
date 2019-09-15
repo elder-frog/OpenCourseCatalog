@@ -184,6 +184,8 @@
 
 [斯坦福 经典力学 (Stanford, Classical Mechanics)](https://www.bilibili.com/video/av37992497)
 
+[NTNU(挪威科技大学) 经典力学 (TFY4345, Classical Mechanics)](https://www.bilibili.com/video/av59839869/)
+
 ### 统计物理 / Statistical Physics
 
 [斯坦福 统计力学 (Stanford, Statistical Mechanics)【英，部分】](https://www.bilibili.com/video/av39878940/)
