@@ -4,11 +4,23 @@
 
 这是一份公开课的目录，这里的视频大多来自 YouTube 等国内无法访问的网站，为了方便国内的朋友观看，我将这些视频搬运到了 [Bilibili](https://space.bilibili.com/12721139)。
 
+## Q & A
+
+- 我想看的课没有怎么办？
+    
+    在 issue 中留下中英文对照的课程或课题名称，我在闲暇时间会去找。
+
+- 为什么有些课程没有中/英文字幕 & 为什么有些字幕有错误？
+
+    YouTube 有字幕就有字幕，YouTube 没有字幕就是没有字幕。
+    
+    有错误的字幕是使用了 YouTube 自动生成的字幕，技术不成熟，此类字幕仅作参考。
+
 ## 其他目录说明
 
 1. [台湾等地区公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog/blob/master/台湾等地区公开课目录.md)
 
-    由于某些你懂的原因，台湾地区公开课不易过审，我将这些课程单独列出。最近在做一个百度云机器人，完成以后可以通过机器人获取链接。
+    由于某些你懂的原因，台湾地区公开课不易过审，我将这些课程单独列出。
 
 2. [edX公开课目录](https://github.com/wenhan-wu/OpenCourseCatalog/blob/master/edX公开课目录.md)
 
