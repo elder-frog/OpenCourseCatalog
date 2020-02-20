@@ -166,6 +166,8 @@
 
 [耶鲁 博弈论 (ECON-159, Game Theory)](http://www.bilibili.com/video/av36916092)
 
+[ICM 2014: Plenary Lectures](https://www.bilibili.com/video/av78861981/)
+
 ---
 
 ## 物理 / Physics
