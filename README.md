@@ -86,6 +86,8 @@
 
 [伊利诺伊大学 同伦论：工具与应用 (Illinois, Homotopy: Theory tools and applications)](https://www.bilibili.com/video/av51368305/)
 
+[[UChicago] Second Chicago Summer School in Geometry and Topology](https://www.bilibili.com/video/av82719978/)
+
 ### 几何 / Geometry
 
 [ICTP 微分几何 (ICTP MTH-DG 2018, Differential Geometry)](https://www.bilibili.com/video/av56849404/)
@@ -156,7 +158,7 @@
 
 [IAS 走近几何朗兰兹纲领猜想的证明 (IAS, Towards the proof of the geometric Langlands)](https://www.bilibili.com/video/av57651093/)
 
-[IHES Mathematical Aspects of Six-Dimensional Quantum Field Theories](https://www.bilibili.com/video/av80863269/)
+[[IHES] Mathematical Aspects of Six-Dimensional Quantum Field Theories](https://www.bilibili.com/video/av80863269/)
 
 ### 访谈 / Interviews
 
