@@ -88,6 +88,8 @@
 
 [[UChicago] Second Chicago Summer School in Geometry and Topology](https://www.bilibili.com/video/av82719978/)
 
+[[NDGeoTop] Topics in Differential Topology](https://www.bilibili.com/video/av86880312/)
+
 ### 几何 / Geometry
 
 [ICTP 微分几何 (ICTP MTH-DG 2018, Differential Geometry)](https://www.bilibili.com/video/av56849404/)
