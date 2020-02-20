@@ -162,6 +162,10 @@
 
 [[IHES] Mathematical Aspects of Six-Dimensional Quantum Field Theories](https://www.bilibili.com/video/av80863269/)
 
+### 会议 / Meeting
+
+[ICM 2014: Plenary Lectures](https://www.bilibili.com/video/av78861981/)
+
 ### 访谈 / Interviews
 
 [The Abel Prize Interviews](https://www.bilibili.com/video/av82225921/)
@@ -176,7 +180,7 @@
 
 [耶鲁 博弈论 (ECON-159, Game Theory)](http://www.bilibili.com/video/av36916092)
 
-[ICM 2014: Plenary Lectures](https://www.bilibili.com/video/av78861981/)
+[[IHES] Summer School 2018: Supersymmetric Localization and Exact Results](https://www.bilibili.com/video/av85437699/)
 
 ---
 
