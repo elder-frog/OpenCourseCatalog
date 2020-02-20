@@ -98,6 +98,8 @@
 
 [巴黎数学科学基金会 双有理几何 (Sciences Maths Paris, Birational Geometry)](https://www.bilibili.com/video/av56182412/)
 
+[[IHES] 2015 Summer School on Moduli Problems in Symplectic Geometry](https://www.bilibili.com/video/av84401726/)
+
 ### 数论 / Number Theory
 
 [加利福尼亚大学圣迭戈分校 数论 (UCSD Math 205, Topics in Number Theory)](https://www.bilibili.com/video/av51105699/)
