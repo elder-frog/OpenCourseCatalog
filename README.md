@@ -182,6 +182,12 @@
 
 [麻省理工 物理 III：振动与波 (MIT 8.03SC Physics III: Vibrations and Waves)【英】](https://www.bilibili.com/video/av49406678/)
 
+[MIT 8.01x 物理I：经典力学 答疑与习题讲解 (MIT 8.01x Help Sessions)](https://www.bilibili.com/video/av68948340/)
+
+[MIT 8.02x 物理II：电和磁 答疑与习题讲解 (MIT 8.02x Help Sessions)](https://www.bilibili.com/video/av68983905/)
+
+[MIT 8.03x 物理 III：振动与波 答疑与习题讲解](https://www.bilibili.com/video/av70580345/)
+
 下面这个是 2016 年录制的
 
 [麻省理工 物理 III：振动与波 (MIT 8.03SC Physics III: Vibrations and Waves)【英】](https://www.bilibili.com/video/av39387583/)
