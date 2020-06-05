@@ -302,6 +302,8 @@
 
 ### 基础课 / Introduction
 
+[**[MIT] 6.001 计算机程序的构造与解释 (Structure and Interpretation, 1986)**](https://www.bilibili.com/video/BV1AA411t7Wk/)
+
 [MIT 6.042J&18.062J, Mathematics for Computer Science, Tom Leighton](https://www.bilibili.com/video/av34841911)
 
 [卡内基梅隆大学 计算机系统入门 (CMU 15-213, Introduction to Computer Systems)【英】](https://www.bilibili.com/video/av39221579/)
@@ -324,7 +326,7 @@
 
 [麻省理工 算法入门 (MIT 6.006, Introduction to Algorithms, Peak Finding)](https://www.bilibili.com/video/av34605246)
 
-[麻省理工 算法设计与分析 (6.046J&18.410J, Design and Analysis of Algorithms, C Leiserson)](https://www.bilibili.com/video/av34952152)
+[**麻省理工 算法设计与分析 (6.046J&18.410J, Design and Analysis of Algorithms, C Leiserson)**](https://www.bilibili.com/video/av34952152)
 
 [麻省理工 算法设计与分析 (6.046J, Design and Analysis of Algorithms, 2015, Erik Demaine)](https://www.bilibili.com/video/av34892415)
 
