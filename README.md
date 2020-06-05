@@ -300,6 +300,10 @@
 
 ## 计算机 / Computer Science
 
+### 计算机历史 / Computer History
+
+[[UWashington] 计算的历史 (CSE P 590A: History of Computing)](https://www.bilibili.com/video/BV1r5411p7ex/)
+
 ### 基础课 / Introduction
 
 [**[MIT] 6.001 计算机程序的构造与解释 (Structure and Interpretation, 1986)**](https://www.bilibili.com/video/BV1AA411t7Wk/)
