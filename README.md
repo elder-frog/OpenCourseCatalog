@@ -30,7 +30,7 @@
 
 [新南威尔士大学 数学史 (UNSW, Math History: A course in the History of Mathematics)](https://www.bilibili.com/video/av52983739/)
 
-### [数学分析 / Mathematical Analysis](https://github.com/wenhan-wu/OpenCourseCatalog/blob/master/TaoBao.md#%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90--mathematical-analysis)
+### [数学分析 / Mathematical Analysis](https://github.com/wenhan-wu/OpenCourseCatalog/blob/master/台湾等地区公开课目录.md#数学分析--mathematical-analysis)
 
 ### 微积分 / Calculus
 
@@ -377,6 +377,8 @@
 [麻省理工 分布式系统 (MIT 6.824, Distributed Systems)](https://www.bilibili.com/video/av38073607)
 
 ### 计算机安全 / Security
+
+[[Stanford] 网络安全 (CS 253 Web Security)](https://www.bilibili.com/video/BV19741117Ng/)
 
 [MIT 密码学 (MIT 6.875, Cryptography Sp 2018)](https://www.bilibili.com/video/av58961353/)
 
