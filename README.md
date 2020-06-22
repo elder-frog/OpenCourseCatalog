@@ -178,7 +178,7 @@
 
 ### 其他 / Other
 
-[斯坦福 凸优化 (Stanford EE364, Convex Optimization)【英】](https://www.bilibili.com/video/av38112145)
+[斯坦福 凸优化 (Stanford EE364, Convex Optimization)【英】](https://www.bilibili.com/video/BV1ct411i7j3/)
 
 [麻省理工 工程数学方法 (MIT 18.086 Mathematical Methods for Engineers II)【英】](https://www.bilibili.com/video/av37749598)
 
