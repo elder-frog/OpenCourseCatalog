@@ -308,11 +308,21 @@
 
 [[UWashington] 计算的历史 (CSE P 590A: History of Computing)](https://www.bilibili.com/video/BV1r5411p7ex/)
 
+### 计算机数学 / Computer Math
+
+[MIT 6.042J&18.062J, Mathematics for Computer Science, Tom Leighton](https://www.bilibili.com/video/av34841911)
+
+#### 范畴论 / Category Theory
+
+[[Bartosz Milewski] 面向程序员的范畴论 Part I (Category Theory Part I)](https://www.bilibili.com/video/BV1TD4y1Q7r1)
+
+[[Bartosz Milewski] 面向程序员的范畴论 Part II (Category Theory Part II)](https://www.bilibili.com/video/BV1EA411i7DT)
+
+[[Bartosz Milewski] 面向程序员的范畴论 Part III (Category Theory Part III)](https://www.bilibili.com/video/BV19D4y1D7um)
+
 ### 基础课 / Introduction
 
 [**[MIT] 6.001 计算机程序的构造与解释 (Structure and Interpretation, 1986)**](https://www.bilibili.com/video/BV1AA411t7Wk/)
-
-[MIT 6.042J&18.062J, Mathematics for Computer Science, Tom Leighton](https://www.bilibili.com/video/av34841911)
 
 [卡内基梅隆大学 计算机系统入门 (CMU 15-213, Introduction to Computer Systems)【英】](https://www.bilibili.com/video/av39221579/)
 
