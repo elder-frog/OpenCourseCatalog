@@ -460,21 +460,41 @@
 
 ## 化学 / Chemistry
 
-### 无机化学 / Inorganic Chemistry
+### UCI Open Chemistry
 
-[加州大学尔湾分校 无机化学 A (普通化学 A) (CHEM 1A, General Chemistry)【英】](https://www.bilibili.com/video/av49109750/)
+这是一个 UCI 的一个本科化学系列，覆盖了本科所有化学课程和一部分研究生课程，建议按学年顺序学习
 
-[加州大学尔湾分校 无机化学 B (普通化学 B) (CHEM 1B, General Chemistry)【英】](https://www.bilibili.com/video/av49126654/)
+#### 预备课程 / Preparation Courses
 
-[加州大学尔湾分校 无机化学 C (普通化学 C) (CHEM 1C, General Chemistry)【英】](https://www.bilibili.com/video/av49207150/)
+[[UCI] 菜鸡的化学入门课 (Chem 1P: Preparation for Chemistry)](https://www.bilibili.com/video/BV15C4y1a7bZ/)
 
-### 有机化学 / Organic Chemistry
+#### 第一学年 / Year One
 
-[加州大学尔湾分校 有机化学 A (CHEM 51A, Organic Chemistry)【英】](https://www.bilibili.com/video/av49324767/)
+[[UCI] 普通化学 A (Chem 1A: General Chemistry)【英】](https://www.bilibili.com/video/av49109750/) [备份](https://www.bilibili.com/video/BV19A411q7a7/)
 
-[加州大学尔湾分校 有机化学 B (CHEM 51B, Organic Chemistry)【英】](https://www.bilibili.com/video/av49335838/)
+[[UCI] 普通化学 B (Chem 1B: General Chemistry)【英】](https://www.bilibili.com/video/av49126654/)
 
-[加州大学尔湾分校 有机化学 C (CHEM 51C, Organic Chemistry)【英】](https://www.bilibili.com/video/av49364178/)
+[[UCI] 普通化学 C (Chem 1C: General Chemistry)【英】](https://www.bilibili.com/video/av49207150/)
+
+#### 第二学年 / Year Two
+
+[[UCI] 科学计算 (Chem 5: Scientific Computing Skills)](https://www.bilibili.com/video/BV1xa4y1Y7fs/)
+
+[[UCI] 有机化学 A (Chem 51A: Organic Chemistry)【英】](https://www.bilibili.com/video/av49324767/)
+
+[[UCI] 有机化学 B (Chem 51B: Organic Chemistry)【英】](https://www.bilibili.com/video/av49335838/)
+
+[[UCI] 有机化学 C (Chem 51C: Organic Chemistry)【英】](https://www.bilibili.com/video/av49364178/)
+
+#### 第三、四学年 / Years 3 and 4
+
+[[UCI] 无机化学 (Chemistry 107: Inorganic Chemistry)](https://www.bilibili.com/video/BV1dv411q7g7/)
+
+[[UCI] 高等有机化学 (Chem125: Advanced Organic Chemistry)](https://www.bilibili.com/video/BV14i4y1x7rh/)
+
+[[UCI] 化学生物导论 (Chem 128: Introduction to Chemical Biology)](https://www.bilibili.com/video/BV14i4y1x7G7/)
+
+[[UCI] 量子化学原理 (Chem 131A: Quantum Principles)](https://www.bilibili.com/video/BV1wA411i7wN/)
 
 ### 其他 / Other
 
